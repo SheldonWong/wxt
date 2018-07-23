@@ -8,14 +8,14 @@
 # 大数据
 - [redis设计与实现](https://www.kancloud.cn/kancloud/redisbook/63822)
 - [Elasticsearch权威指南](https://www.kancloud.cn/thinkphp/elastic_search/35608)
-- [hadoop权威指南]
+- [hadoop权威指南]()
 - [深入hadoop技术内幕：HDFS]()
 - [深入hadoop技术内幕：MapReduce]()
 - [深入hadoop技术内幕：Yarn]()
 - [Spark快速大数据分析]()
-- [Hbase企业开发实战]
-- [Hive编程指南]
-- [Hive用户指南]
+- [Hbase企业开发实战]()
+- [Hive编程指南]()
+- [Hive用户指南]()
 
 # 机器学习
 - [凸优化]()
@@ -75,7 +75,7 @@
 
 # 网站架构/分布式
 
-- [大型网站技术架构]（）
+- [大型网站技术架构]()
 - [大规模分布式存储系统](https://book.douban.com/subject/25723658/)
 - [从 Paxos 到 Zookeeper](https://book.douban.com/subject/26292004/)
 - [大型网站系统与 Java 中间件开发实践](https://book.douban.com/subject/25867042/)

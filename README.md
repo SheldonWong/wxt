@@ -9,6 +9,9 @@
 - [CSDN](http://https://blog.csdn.net/sheldonwong/)
 - [hexo](http://sheldonwong.github.io)
 
+## 书籍列表
+- [书籍列表](https://github.com/SheldonWong/wxt/blob/master/BOOKLIST.md)
+
 ## 文章
 - [大数据与机器学习文章](https://github.com/SheldonWong/wxt/tree/master/article)
 
