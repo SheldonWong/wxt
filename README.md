@@ -1,5 +1,20 @@
 #个人资料记录
 
+
+## 在读的书
+- Hive用户手册
+- Spark
+- 终极算法
+- Algo in a Nutshell
+
+## 存在的问题
+
+## 要总结的东西
+- 推荐（头条，美团，Kaggle点击率预测）
+- 大数据（数据流转，sqoop数仓）
+- 大数据实时（）
+
+## 包含的东西
 - PPT
 - 文章链接
 - 书籍
@@ -10,13 +25,12 @@
 - [hexo](http://sheldonwong.github.io)
 
 ## 书籍列表
-- [书籍列表](https://github.com/SheldonWong/wxt/blob/master/BOOKLIST.md)
+- [书籍列表](book/BOOKLIST.md)
 
 ## 文章
-- [大数据与机器学习文章](https://github.com/SheldonWong/wxt/tree/master/article)
+- [大数据与机器学习文章](article/README.md)
 
 ## 技术博客
-
 - [董西成-大数据](http://dongxicheng.org/)
 - [美团技术博客-综合](https://tech.meituan.com/)
 - [寒小阳-机器学习](https://blog.csdn.net/han_xiaoyang)

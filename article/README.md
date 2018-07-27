@@ -1,26 +1,29 @@
 
 
 # BigData
-* hadoop3.1.0官网翻译 https://www.kancloud.cn/fymod/hadoop3/629591
+- apachecn http://cwiki.apachecn.org/spacedirectory/view.action
+- 
+- hadoop3.1.0官网翻译 https://www.kancloud.cn/fymod/hadoop3/629591
 
 
 ## Docker
-* Docker社区 http://www.docker.org.cn/
-* 用Kafka和HBase构建一个基于Docker的数据采集器 ßhttp://dockone.io/article/241
+- Docker社区 http://www.docker.org.cn/
+- 用Kafka和HBase构建一个基于Docker的数据采集器 ßhttp://dockone.io/article/241
 
 ## 环境配置
 - Linux: Ubuntu14.04 MySQL: 5.7.16 Hadoop: 2.7.1 HBase：1.1.2 Hive:1.2.1 Sqoop:1.4.6 R：3.2.3 Eclipse：3.8
 - 大数据环境配置 http://dblab.xmu.edu.cn/blog/1131-2/
 
 ## Hive
-* Hive学习路线图 http://blog.fens.me/hadoop-hive-roadmap/
-* Hive源码解析 https://segmentfault.com/a/1190000002766035
-* Hive数据倾斜 https://www.cnblogs.com/raymoc/p/5325295.html
+- Hive学习路线图 http://blog.fens.me/hadoop-hive-roadmap/
+- Hive源码解析 https://segmentfault.com/a/1190000002766035
+- Hive数据倾斜 https://www.cnblogs.com/raymoc/p/5325295.html
 
 ## SQL
 - SQL在线练习 http://sqlfiddle.com/#!9/a6c585/1
 - SQL实例 https://blog.csdn.net/u013142781/article/details/50836476
 - SQL语句实例 https://www.cnblogs.com/geminichao/p/5672919.html
+- 关于数据库的commit以及rollback https://blog.csdn.net/xiaotom5/article/details/8133067
 
 
 ## ElasticSearch
@@ -56,3 +59,10 @@
 ## Python 
 * Python官方教程 http://www.pythondoc.com/pythontutorial3/appetite.html
 * Python Cookbook https://www.kancloud.cn/kancloud/python3-cookbook
+
+# 技术
+
+- 多线程还是多进程的选择及区别 https://blog.csdn.net/lishenglong666/article/details/8557215
+
+# 写作
+- markdown http://mdp.tylingsoft.com/
