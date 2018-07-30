@@ -7,12 +7,21 @@
 - 终极算法
 - Algo in a Nutshell
 
-## 存在的问题
+## 目录说明
+- [日常安排]()
+- [临时记录，今后总结](TEMP.md)
+- [个人笔记](note/READMD.md)
+- [遇到的问题](PROBLEM.md)
+- [书籍列表](BOOKLIST.md)
+- [大数据与机器学习文章](article/README.md)
 
 ## 要总结的东西
 - 推荐（头条，美团，Kaggle点击率预测）
 - 大数据（数据流转，sqoop数仓）
 - 大数据实时（）
+- SVM
+- 决策树
+- 集成学习
 
 ## 包含的东西
 - PPT
@@ -23,12 +32,6 @@
 - [看云](https://www.kancloud.cn/@sheldonwong)
 - [CSDN](http://https://blog.csdn.net/sheldonwong/)
 - [hexo](http://sheldonwong.github.io)
-
-## 书籍列表
-- [书籍列表](book/BOOKLIST.md)
-
-## 文章
-- [大数据与机器学习文章](article/README.md)
 
 ## 技术博客
 - [董西成-大数据](http://dongxicheng.org/)
