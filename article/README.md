@@ -38,6 +38,9 @@
 
 # 机器学习
 
+## 决策树
+
+
 ## XGB
 * XGB http://www.52cs.org/?p=429
 * XGB实战及源代码分析 https://blog.csdn.net/u010159842/article/details/77503930
@@ -49,6 +52,8 @@
 ## SVM
 * SVM支持向量机 http://xtf615.com/2017/03/28/SVM支持向量机/
 * A Support Vector Machine in just a few Lines of Python Code-SGD https://maviccprp.github.io/a-support-vector-machine-in-just-a-few-lines-of-python-code/
+* SMO https://zhuanlan.zhihu.com/p/29212107
+* 序列最小优化算法 https://zh.wikipedia.org/wiki/序列最小优化算法
 
 ## 学术推荐系统
 * 推荐系统评测指标 https://www.cnblogs.com/li-daphne/p/6928681.html
