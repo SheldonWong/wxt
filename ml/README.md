@@ -24,7 +24,7 @@ $$\frac{7x+5}{1+y^2}$$
 - 朴素贝叶斯
 - 决策树[plan]
 - 集成学习[plan]
-- 支持向量机[文章](https://zhuanlan.zhihu.com/p/40972083)[代码]()[ing]
+- 支持向量机[文章](https://zhuanlan.zhihu.com/p/40972083)[代码](https://github.com/SheldonWong/machinelearning/tree/master/5-SVM)[ing]
 - Kmeans
 - PCA
 - 特征工程
