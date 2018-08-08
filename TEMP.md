@@ -21,5 +21,20 @@
 
 ## 20180803
 - 机器学习，线性回归，LASSO回归，Ridge回归 https://blog.csdn.net/hzw19920329/article/details/77200475
-- 
-- 
+
+### 20180805
+- nohup command &,挂在后台执行，即便是退出terminal也依然继续执行
+- crontab http://www.cnblogs.com/peida/archive/2013/01/08/2850483.html
+
+### 20180806
+- kd树 https://zhuanlan.zhihu.com/p/23966698
+- kd树 https://www.youtube.com/watch?v=Y4ZgLlDfKDg
+
+### 20180807
+- Maven https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+### 20180808
+- numpy https://blog.csdn.net/liangzuojiayi/article/details/51534164
+- Raft http://catkang.github.io/2017/06/30/raft-subproblem.html
+- [Spark Mlib](https://github.com/yangwenmai/maiyang.me/blob/0bda2bb6dd9b4b1b9d235b0afecba3bddb64ec8b/content/post/2017-03-21-practice07-spark.md)
+- 决策树例子 https://blog.csdn.net/mingyong_blog/article/details/47706481
