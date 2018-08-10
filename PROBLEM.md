@@ -1,6 +1,6 @@
 ### 20180806
 
-问题描述：
+问题描述：安装hue的时候
 sudo make apps  
 /bin/bash: mvn: command not found
 昨天还能通过，今天就报错，问题比较诡异。查了一下，这个问题很简单：

@@ -38,3 +38,9 @@
 - Raft http://catkang.github.io/2017/06/30/raft-subproblem.html
 - [Spark Mlib](https://github.com/yangwenmai/maiyang.me/blob/0bda2bb6dd9b4b1b9d235b0afecba3bddb64ec8b/content/post/2017-03-21-practice07-spark.md)
 - 决策树例子 https://blog.csdn.net/mingyong_blog/article/details/47706481
+- 模型评估 https://www.jianshu.com/p/9420ebfd05bd
+
+### 20180809
+- 计算机视觉 https://blog.csdn.net/baobei0112/article/details/51423920
+- CTR https://xuefenghuang.github.io/recommand-algorithm/
+

@@ -35,9 +35,14 @@
 - [CSDN](http://https://blog.csdn.net/sheldonwong/)
 - [hexo](http://sheldonwong.github.io)
 
+### 常去
+- YouTube，Bilibili，weibo，GitHub
+
 ## 技术博客
 - [董西成-大数据](http://dongxicheng.org/)
 - [美团技术博客-综合](https://tech.meituan.com/)
 - [寒小阳-机器学习](https://blog.csdn.net/han_xiaoyang)
+- [52cv](https://www.52cv.net/)
+
 
 

@@ -9,3 +9,21 @@
 ### 数据归一化
 - 数据归一化 https://blog.csdn.net/kryolith/article/details/39770187
 - 数据归一化，正则化，标准化 https://www.cnblogs.com/hudongni1/articles/5499307.html
+
+### 决策树
+- 计算过程 https://blog.csdn.net/aliceyangxi1987/article/details/71079490
+- Google Developer实现https://github.com/random-forests/tutorials/blob/master/decision_tree.ipynb
+- 何的实现 https://zhuanlan.zhihu.com/p/24482628
+- 讲义 http://www.sysu-ml.com/wp-content/uploads/2017/12/%E5%86%B3%E7%AD%96%E6%A0%91%E8%AE%B2%E4%B9%89.pdf
+
+### XGBOOST
+- xgb参数调节 https://zhuanlan.zhihu.com/p/28672955
+- xgb参数调优 https://blog.csdn.net/u010657489/article/details/51952785
+
+### 随机森林
+- sklearn随机森林https://www.cnblogs.com/pinard/p/6160412.html
+
+- GBDT https://www.cnblogs.com/pinard/p/6140514.html
+
+### 深度学习
+- 从起源到具体算法，这是一份适合所有人读的深度学习综述论文 https://www.jiqizhixin.com/articles/2018-03-12-3
