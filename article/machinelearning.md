@@ -1,4 +1,8 @@
 
+### 机器学习面试
+[机器学习面试](http://kubicode.me/2015/08/16/Machine%20Learning/Algorithm-Summary-for-Interview/#%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF)
+
+
 ### 机器学习模型评测
 - [各种机器学习算法的应用场景分别是什么](https://www.zhihu.com/question/26726794/answer/151282052)
 - [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?](http://jmlr.org/papers/v15/delgado14a.html)
@@ -15,6 +19,7 @@
 - Google Developer实现https://github.com/random-forests/tutorials/blob/master/decision_tree.ipynb
 - 何的实现 https://zhuanlan.zhihu.com/p/24482628
 - 讲义 http://www.sysu-ml.com/wp-content/uploads/2017/12/%E5%86%B3%E7%AD%96%E6%A0%91%E8%AE%B2%E4%B9%89.pdf
+- GBDT and XGB https://zhouyonglong.wordpress.com/2017/08/06/gbdt-and-xgboost/
 
 ### XGBOOST
 - xgb参数调节 https://zhuanlan.zhihu.com/p/28672955
@@ -22,7 +27,6 @@
 
 ### 随机森林
 - sklearn随机森林https://www.cnblogs.com/pinard/p/6160412.html
-
 - GBDT https://www.cnblogs.com/pinard/p/6140514.html
 
 ### 深度学习
