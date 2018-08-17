@@ -10,10 +10,17 @@ $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 $$\frac{7x+5}{1+y^2}$$
 \\(l(x_i) = - \log_2 P(x_i)\\)
 
+### 算法总结
 [参考文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159393)
+[机器学习算法总结](https://juejin.im/entry/59bf24305188257e705322b7)
 
+### 文件说明
+- competition 机器学习竞赛，及竞赛经验
+- model 自己对模型的认识，以及一些网文
+- sklearn 机器学习库的使用
+- 统计学习方法 统计学习方法读书笔记
 
-
+### 机器学习
 - 简介
 - 概率论与数理统计
 - 线性代数
