@@ -50,6 +50,10 @@ class Shop:
 ```
 print(help(zhushi))
 
+
+
+### pandas常用
+
 ### pandas调整列顺序
 ```python
 dict_a = {'user_id':['webbang','webbang','webbang'],'book_id':['3713327','4074636','26873486'],'rating':['4','4','4'],'mark_date':['2017-03-07','2017-03-07','2017-03-07']}
