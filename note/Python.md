@@ -1,6 +1,11 @@
 [TOC]
 
 ## Python基础
+
+### 参考
+[Python3 Cookbbok](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
+
+
 ### list
 ```python
 

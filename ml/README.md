@@ -25,12 +25,12 @@ $$\frac{7x+5}{1+y^2}$$
 - 概率论与数理统计
 - 线性代数
 - 优化理论
-- K近邻
+- K近邻[plan]
 - 线性回归(一元，多元)[✔️]
 - 逻辑回归[✔️]
-- 朴素贝叶斯
-- 决策树[plan]
-- 集成学习[plan]
+- 朴素贝叶斯[plan]
+- 决策树[✔️]
+- 集成学习[ing]
 - 支持向量机[文章](https://zhuanlan.zhihu.com/p/40972083)[代码](https://github.com/SheldonWong/machinelearning/tree/master/5-SVM)[ing]
 - Kmeans
 - PCA

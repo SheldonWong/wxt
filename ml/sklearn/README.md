@@ -8,6 +8,10 @@
 
 ### 模型
 
+### 分类OVO，OVR，MVM
+[机器学习：逻辑回归	OvR与OvO](http://www.cnblogs.com/volcao/p/9389921.html)
+[多分类学习](https://zhuanlan.zhihu.com/p/31458945)
+
 
 
 ### 决策树
