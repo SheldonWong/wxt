@@ -13,6 +13,20 @@
 [多分类学习](https://zhuanlan.zhihu.com/p/31458945)
 
 
+### SVM
+[LinearSVC与SVC区别](https://www.jianshu.com/p/a817b94c43dd)
+```
+LinearSVC() 与 SVC(kernel='linear') 的区别概括如下：
+
+LinearSVC() 最小化 hinge loss的平方，
+SVC(kernel='linear') 最小化 hinge loss；
+LinearSVC() 使用 one-vs-rest 处理多类问题，
+SVC(kernel='linear') 使用 one-vs-one 处理多类问题；
+LinearSVC() 使用linear执行，
+SVC(kernel='linear')使用libsvm执行；
+LinearSVC() 可以选择正则项和损失函数，
+SVC(kernel='linear')使用默认设置。
+```
 
 ### 决策树
 [可视化决策树之Python实现](https://blog.csdn.net/llh_1178/article/details/78516774)
