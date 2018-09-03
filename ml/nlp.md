@@ -1,6 +1,9 @@
 
 ## 自然语言处理
 
+### 主页
+[邱锡鹏](http://nlp.fudan.edu.cn/xpqiu/)
+
 ### 自然语言处理的任务
 [参考cips2016]
 
@@ -41,6 +44,12 @@
 - [getting-started-with-word2vec](https://textprocessing.org/getting-started-with-word2vec)
 
 word2vec最大的应用是计算距离
+
+
+### 文本分类
+[NLP文本分类实战: 传统方法与深度学习](https://zhuanlan.zhihu.com/p/31963565)
+[文本分类实战系列（一）：特征工程](http://www.jeyzhang.com/text-classification-in-action.html)
+[新闻长文本分类服务难点杂谈](https://zhuanlan.zhihu.com/p/34833707)
 
 ### 工具篇
 - [自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁](https://github.com/hankcs/HanLP)

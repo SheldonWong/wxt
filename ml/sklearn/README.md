@@ -28,6 +28,10 @@ LinearSVC() 可以选择正则项和损失函数，
 SVC(kernel='linear')使用默认设置。
 ```
 
+### 概率校准
+sklearn.calibration.CalibratedClassifierCV
+执行分类时, 您经常希望不仅可以预测类标签, 还要获得相应标签的概率. 这个概率给出分类的置信度。
+
 ### 决策树
 [可视化决策树之Python实现](https://blog.csdn.net/llh_1178/article/details/78516774)
 

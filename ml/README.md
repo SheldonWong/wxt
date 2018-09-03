@@ -14,11 +14,20 @@ $$\frac{7x+5}{1+y^2}$$
 [参考文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159393)
 [机器学习算法总结](https://juejin.im/entry/59bf24305188257e705322b7)
 
+
 ### 文件说明
 - competition 机器学习竞赛，及竞赛经验
 - model 自己对模型的认识，以及一些网文
 - sklearn 机器学习库的使用
 - 统计学习方法 统计学习方法读书笔记
+
+### 数据
+[数据与特征工程](https://www.zybuluo.com/rianusr/note/1156011)
+
+
+### 机器学习中的损失函数
+[机器学习中的损失函数 （着重比较：hinge loss vs softmax loss）](https://blog.csdn.net/u010976453/article/details/78488279)
+
 
 ### 机器学习
 - 简介
@@ -38,6 +47,11 @@ $$\frac{7x+5}{1+y^2}$$
 - 推荐系统
 - 自然语言处理
 - 计算机视觉
+
+### 网站
+[Medium Machine Learning](https://medium.com/tag/machine-learning)
+[cs231n](http://cs231n.github.io/linear-classify/)
+[循环网络和LSTM教程](https://deeplearning4j.org/cn/recurrentnetwork)
 
 ### 机器学实现
 [机器学习实战教程](http://cuijiahua.com/blog/ml/)
