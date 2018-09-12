@@ -24,10 +24,14 @@
 	- 《深度学习：一起玩转TensorLayer》
 
 ### 模型
-[NNBP]()
-[CNN]()
-[RNN]()
-[LSTM]()
+- [NNBP]
+- [CNN]
+	- [卷积神经网络的理解](http://www.omegaxy.com/blog/2016-01-14/cnn/)
+	- [理解一维卷积](http://frankchen.xyz/2018/04/17/conv1d-in-keras/)
+	- [理解一维卷积，二维卷积，三维卷积](https://www.cnblogs.com/szxspark/p/8445406.html)
+
+- [RNN]()
+- [LSTM]()
 
 ### 应用
 - 自然语言处理
@@ -38,6 +42,7 @@ seq2seq-对话系统
 - 计算机视觉
 classification - 图像分类
 
+
 - 语音
 
 
@@ -47,3 +52,4 @@ classification - 图像分类
 
 [PaddlePaddle](http://staging.paddlepaddle.org/documentation/docs/zh/0.14.0/new_docs/beginners_guide/index.html)
 [Deeplearning4j](https://deeplearning4j.org/cn/convolutionalnets)
+[Keras](https://blog.csdn.net/sinat_26917383/article/details/72857454)

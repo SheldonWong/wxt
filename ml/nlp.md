@@ -56,7 +56,7 @@ word2vec最大的应用是计算距离
 
 ### fasttext
 [fasttext源代码](https://heleifz.github.io/14732610572844.html)
-
+[fasttext](http://albertxiebnu.github.io/fasttext/)
 ```python
     def predict(self, texts, k=1):
         all_labels = []

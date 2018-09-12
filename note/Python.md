@@ -4,7 +4,7 @@
 
 ### 参考
 [Python3 Cookbbok](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
-
+[Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/index.html)
 
 ### list
 ```python
@@ -78,3 +78,6 @@ dict_a = {'user_id':['webbang','webbang','webbang'],'book_id':['3713327','407463
 2  webbang  26873486      4  2017-03-07
 
 ```
+
+### random模块
+[random模块](https://www.cnblogs.com/yd1227/archive/2011/03/18/1988015.html)
