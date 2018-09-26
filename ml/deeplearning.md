@@ -24,11 +24,13 @@
 	- 《深度学习：一起玩转TensorLayer》
 
 ### 模型
-- [NNBP]
+- [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
+- [NNBP]()
 - [CNN]
 	- [卷积神经网络的理解](http://www.omegaxy.com/blog/2016-01-14/cnn/)
 	- [理解一维卷积](http://frankchen.xyz/2018/04/17/conv1d-in-keras/)
 	- [理解一维卷积，二维卷积，三维卷积](https://www.cnblogs.com/szxspark/p/8445406.html)
+	- [cs231n-assignment](https://github.com/LMerCy/cs231n)
 
 - [RNN]()
 - [LSTM]()

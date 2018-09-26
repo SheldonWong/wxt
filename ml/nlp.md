@@ -42,6 +42,7 @@
 - [DeepLearning实战之word2vec](https://kexue.fm/usr/uploads/2017/04/146269300.pdf)
 - [word2vec例子](https://www.zhihu.com/question/44832436)
 - [getting-started-with-word2vec](https://textprocessing.org/getting-started-with-word2vec)
+- [自己动手写word2vec](https://blog.csdn.net/u014595019/article/details/51884529)
 
 word2vec最大的应用是计算距离
 
@@ -51,12 +52,18 @@ word2vec最大的应用是计算距离
 [文本分类实战系列（一）：特征工程](http://www.jeyzhang.com/text-classification-in-action.html)
 [新闻长文本分类服务难点杂谈](https://zhuanlan.zhihu.com/p/34833707)
 
+### 主题模型
+[PLSA](https://www.cnblogs.com/bentuwuying/p/6219970.html)
+[PLSA-python实现](https://www.cnblogs.com/bentuwuying/p/6219970.html)
+[基于PLSA的用户兴趣聚类]
+
 ### 工具篇
 - [自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁](https://github.com/hankcs/HanLP)
 
 ### fasttext
-[fasttext源代码](https://heleifz.github.io/14732610572844.html)
-[fasttext](http://albertxiebnu.github.io/fasttext/)
+- 对word2vec求平均，作为一篇文章的表示，作为特征输入给DenseNetwork
+- [fasttext源代码](https://heleifz.github.io/14732610572844.html)
+- [fasttext](http://albertxiebnu.github.io/fasttext/)
 ```python
     def predict(self, texts, k=1):
         all_labels = []

@@ -7,3 +7,5 @@
 [The origin of CNN: LeNet-5](https://zhuanlan.zhihu.com/p/38486701)
 [Keras 对序列进行一维和二维卷积](https://segmentfault.com/a/1190000012731665)
 [卷积神经网络底层计算细节](https://blog.csdn.net/dcrmg/article/details/79652487)
+[全球名校课程作业分享系列(2)--斯坦福计算机视觉与深度学习CS231n之SVM图像分类](https://blog.csdn.net/han_xiaoyang/article/details/79138402)
+[cs231n作业](https://github.com/oubindo/cs231n-cnn)

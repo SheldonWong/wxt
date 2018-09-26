@@ -50,8 +50,15 @@ Oozie与Hadoop堆栈的其余部分集成，支持多种类型的Hadoop作业（
 ### 工作流
 
 
+### Hbase
+- [Hbase深入浅出](https://www.ibm.com/developerworks/cn/analytics/library/ba-cn-bigdata-hbase/index.html)
+
+
 ### 对比
 [MapReduce与Spark的对比]
 [SQL on Hadoop的对比]
 [消息队列的对比]
 [实时计算框架对比storm，streaming，flink](https://bigdata.163yun.com/product/article/5)
+
+### Hive
+- [Hive拉链表](http://www.zhangrenhua.com/2016/02/28/hadoop-Hive%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E5%8E%86%E5%8F%B2%E6%8B%89%E9%93%BE%E5%AE%9E%E7%8E%B0/)

@@ -48,6 +48,9 @@ $$\frac{7x+5}{1+y^2}$$
 - 自然语言处理
 - 计算机视觉
 
+### 流程
+[数据可视化与预处理](http://frankchen.xyz/2017/03/15/数据挖掘流程：数据可视化与预处理/)
+
 ### 网站
 [Medium Machine Learning](https://medium.com/tag/machine-learning)
 [cs231n](http://cs231n.github.io/linear-classify/)
