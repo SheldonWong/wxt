@@ -31,6 +31,8 @@
 	- [理解一维卷积](http://frankchen.xyz/2018/04/17/conv1d-in-keras/)
 	- [理解一维卷积，二维卷积，三维卷积](https://www.cnblogs.com/szxspark/p/8445406.html)
 	- [cs231n-assignment](https://github.com/LMerCy/cs231n)
+	- [用python实现对图像的卷积(滤波)](https://www.cnblogs.com/youmuchen/p/6724780.html)
+	- [机器学习教程 十五-细解卷积神经网络](http://www.shareditor.com/blogshow/?blogId=95)
 
 - [RNN]()
 - [LSTM]()
