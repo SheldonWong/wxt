@@ -14,6 +14,8 @@ $$\frac{7x+5}{1+y^2}$$
 [参考文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159393)
 [机器学习算法总结](https://juejin.im/entry/59bf24305188257e705322b7)
 
+### MMA
+[MMA](http://www.cnblogs.com/xin-le/p/5990014.html)
 
 ### 文件说明
 - competition 机器学习竞赛，及竞赛经验
