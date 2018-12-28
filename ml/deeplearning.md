@@ -22,7 +22,8 @@
 	- 《21个项目玩转深度学习》
 	- 《Tensorflow：设计原理与架构》
 	- 《深度学习：一起玩转TensorLayer》
-
+- Paddle
+	- [Paddle Paddle Book](https://github.com/PaddlePaddle/book)
 ### 模型
 - [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 - [NNBP]()
