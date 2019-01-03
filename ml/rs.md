@@ -5,7 +5,10 @@
 ### 推荐系统架构与模型
 
 ### 推荐系统常用模型
-
+- recall
+	- [CF](https://www.imooc.com/article/69651)
+	- [CF](https://blog.csdn.net/yeruby/article/details/44154009)
+- rank
 ### 推荐系统案例
 
 ### 文章
