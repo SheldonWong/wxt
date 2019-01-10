@@ -5,12 +5,14 @@
 - Hive用户手册
 - Spark
 - 终极算法
-- Algo in a Nutshell
+- Algo in a Nutshell 
+
 
 ## 目录说明
 - [日常安排]()
-- [机器学习](ml/)
-- [数据结构与算法](algo/)
+- [d][机器学习](ml/)
+- [d][数据结构与算法](algo/)
+- [d][大数据](bigdata/)
 - [临时记录，今后总结](TEMP.md)
 - [个人笔记](note/READMD.md)
 - [遇到的问题](PROBLEM.md)
