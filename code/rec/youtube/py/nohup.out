@@ -1,0 +1,15 @@
+[I 19:42:09.454 NotebookApp] The port 8888 is already in use, trying another port.
+[I 19:42:09.465 NotebookApp] Serving notebooks from local directory: /home/sheldonwong/workspace/rec/youtube/py
+[I 19:42:09.466 NotebookApp] The Jupyter Notebook is running at:
+[I 19:42:09.466 NotebookApp] http://localhost:8889/?token=2221fd70335c51778054d69eb09a5fd43e4d96cb9611e1ae
+[I 19:42:09.466 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:42:09.466 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=2221fd70335c51778054d69eb09a5fd43e4d96cb9611e1ae
+
+(process:11866): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+[I 19:42:10.301 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 19:42:30.358 NotebookApp] Kernel started: eb45cb89-3805-4360-bafc-fb2728798b9f
+[I 19:42:33.644 NotebookApp] Adapting to protocol v5.1 for kernel eb45cb89-3805-4360-bafc-fb2728798b9f
